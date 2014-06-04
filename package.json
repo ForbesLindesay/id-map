@@ -4,7 +4,7 @@
   "description": "Map for non-string keys (taken from meteor.js)",
   "keywords": [],
   "dependencies": {
-    "ejson": "https://github.com/primus/EJSON/archive/master.tar.gz"
+    "ejson": "~1.0.0"
   },
   "devDependencies": {
     "testit": "^1.2.0",
