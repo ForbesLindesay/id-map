@@ -18,6 +18,7 @@ var map = new IdMap();
 
 // optionaly specify custom stringifier and parser
 var eMap = new IdMap(EJSON.stringify, EJSON.parse);
+```
 
 ### map.get(id)
 
