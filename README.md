@@ -3,8 +3,8 @@
 Map for non-string keys (taken from meteor.js).  Uses JSON.stringify and JSON.parse to convert the keys to and from strings.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/id-map/master.svg)](https://travis-ci.org/ForbesLindesay/id-map)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/id-map.svg)](https://gemnasium.com/ForbesLindesay/id-map)
-[![NPM version](https://img.shields.io/npm/v/id-map.svg)](http://badge.fury.io/js/id-map)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/id-map.svg)](https://david-dm.org/ForbesLindesay/id-map)
+[![NPM version](https://img.shields.io/npm/v/id-map.svg)](https://www.npmjs.com/package/id-map)
 
 ## Installation
 
