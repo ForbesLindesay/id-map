@@ -1,5 +1,7 @@
 # id-map
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/id-map.svg)](https://greenkeeper.io/)
+
 Map for non-string keys (taken from meteor.js).  Uses JSON.stringify and JSON.parse to convert the keys to and from strings.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/id-map/master.svg)](https://travis-ci.org/ForbesLindesay/id-map)
